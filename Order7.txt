@@ -1,0 +1,9 @@
+2023.05.22.12.18.28
+
+
+
+Order ID: 7
+Client ID: 5
+Product ID: 6
+Quantity: 50
+Total Price: 2500.0
